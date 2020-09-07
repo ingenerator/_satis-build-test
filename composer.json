@@ -1,0 +1,6 @@
+{
+  "name": "ingenerator/test-satis",
+  "require": {
+    "php": "^7"
+  }
+}
